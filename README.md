@@ -1,5 +1,3 @@
-# homebox install
-
 services:
   homebox:
     image: ghcr.io/sysadminsmedia/homebox:latest
